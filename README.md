@@ -2,11 +2,11 @@ Projet Laravel de Rémi Moncorgé
 
 
 ## Installation 
-###1/ Cloner le repository 
+#### 1/ Cloner le repository 
 
 git clone https://github.com/remimoncorge/Laravel.git
 
-###2/  Changer les valeurs des fichiers .env.sample .env
+#### 2/  Changer les valeurs des fichiers .env.sample .env
  Changer les valeurs suivantes  selon votre environnement et vos données personnelles :
 
 - `APP_URL`
@@ -25,16 +25,16 @@ git clone https://github.com/remimoncorge/Laravel.git
  ```npm install```
  ```npm run production```
 
-###4) Lancement
+#### 4) Lancement
 php artisan serve dans le terminal
 URL : http://127.0.0.1:8000/
 
-###5) Login utiles
+#### 5) Login utiles
 en tant qu'utilisateur : user@user.com / user
 pour la partie administrateur : aller sur http://127.0.0.1:8000/admin
 connexion : admin@admin.com / admin
 
-##Compte rendu
+## Compte rendu
 #### Tâches réalisées
 * [x] **Pages** Accueil / Articles / Un article et commentaires / Register / Login / Contact
 
