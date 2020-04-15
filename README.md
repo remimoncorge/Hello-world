@@ -1,4 +1,4 @@
-Projet Laravel de Rémi Moncorgé
+# Projet Laravel de Rémi Moncorgé
 
 
 ## Installation 
@@ -17,7 +17,7 @@ git clone https://github.com/remimoncorge/Laravel.git
 - `GITHUB_CLIENT_SECRET`
 - `GITHUB_REDIRECT_URL`
 
-###3) A faire si ce n'est pas déjà présent
+#### 3) A faire si ce n'est pas déjà présent
 ```composer install```
  ```chmod -R 777 storage```
  ```php artisan migrate:fresh --seed && php artisan voyager:install```
@@ -26,12 +26,12 @@ git clone https://github.com/remimoncorge/Laravel.git
  ```npm run production```
 
 #### 4) Lancement
-php artisan serve dans le terminal
+php artisan serve dans le terminal.
 URL : http://127.0.0.1:8000/
 
 #### 5) Login utiles
-en tant qu'utilisateur : user@user.com / user
-pour la partie administrateur : aller sur http://127.0.0.1:8000/admin
+en tant qu'utilisateur : user@user.com / user.
+pour la partie administrateur : aller sur http://127.0.0.1:8000/admin.
 connexion : admin@admin.com / admin
 
 ## Compte rendu
