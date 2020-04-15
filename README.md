@@ -61,7 +61,7 @@ Depuis son espace personnel (user profile), une fois connecté, l'utilisateur pe
 * [x] **Voyager** 
 
 
-Implémentation de Voyager pour la partie administrateur, possibilité de visualiser/éditer/supprimer tous les articles, commentaires, contact, inscription newsletter, medias ... Disctinction du rôle d'administrateur et de user.  
+Implémentation de Voyager pour la partie administrateur, possibilité de visualiser/éditer/supprimer tous les articles, commentaires, contact, inscription newsletter, medias ... Disctinction du rôle d'administrateur et de user, possiblités d'en ajouter de nouveaux. 
 
 * [x] **Médias**
 
