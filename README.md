@@ -18,12 +18,12 @@ git clone https://github.com/remimoncorge/Laravel.git
 - `GITHUB_REDIRECT_URL`
 
 #### 3) A faire si ce n'est pas déjà présent
-```composer install```
- ```chmod -R 777 storage```
- ```php artisan migrate:fresh --seed && php artisan voyager:install```
- ```php artisan storage:link```
- ```npm install```
- ```npm run production```
+- ```composer install```
+- ```chmod -R 777 storage```
+- ```php artisan migrate:fresh --seed && php artisan voyager:install```
+- ```php artisan storage:link```
+- ```npm install```
+- ```npm run production```
 
 #### 4) Lancement
 php artisan serve dans le terminal.
