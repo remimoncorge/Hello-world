@@ -27,11 +27,14 @@ git clone https://github.com/remimoncorge/Laravel.git
 
 #### 4) Lancement
 php artisan serve dans le terminal.
+
 URL : http://127.0.0.1:8000/
 
 #### 5) Login utiles
 en tant qu'utilisateur : user@user.com / user.
+
 pour la partie administrateur : aller sur http://127.0.0.1:8000/admin.
+
 connexion : admin@admin.com / admin
 
 ## Compte rendu
@@ -76,7 +79,7 @@ Intégration graphique responsive
 * [x]  **Utilisation Framework VueJS**
 
 
-#### Tâche non réalisé
+#### Tâche non réalisées ...
 * [ ] 9 - Tests unitaires
 * [ ] 10 - Une application de gestion de fichiers avec catégorisation, VueJS, multi-upload,authentification
 * [ ] 11 - Un Webchat avec Pusher et Vue.js
